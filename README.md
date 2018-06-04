@@ -8,7 +8,7 @@
 
 ## Blog Presentation Schedule
 
-June 14- Susanna, Laura, Anthony, Essa, Will
+June 14- Susanna, Laura, Anthony, Essa, Will \
 June 21- Taylor, Oren, Sydney, Jared
 June 28- Susanna, Laura, Anthony, Essa, Will
 July 5- Taylor, Oren, Sydney, Jared
