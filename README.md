@@ -21,6 +21,6 @@ August 16- Taylor, Oren, Sydney, Jared \
 August 23- Susanna, Laura, Anthony, Essa, Will \
 August 30- Taylor, Oren, Sydney, Jared \
 September 6- Susanna, Laura, Anthony, Essa, Will \
-September 13- Taylor, Oren, Sydney, Jared \
+September 13- Taylor, Oren, Sydney, Jared 
 
 ## Additional Resources
