@@ -6,6 +6,8 @@
 
 #### Module 1
 
+[01 Hashketball Review](https://youtu.be/bTPHWP71jWw) | [code](https://github.com/learn-co-students/dc-web-060418/tree/master/01-hashketball-review)
+
 ## Blog Presentation Schedule
 
 June 14- Susanna, Laura, Anthony, Essa, Will \
