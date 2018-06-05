@@ -7,6 +7,7 @@
 #### Module 1
 
 [01 Hashketball Review](https://youtu.be/bTPHWP71jWw) | [code](https://github.com/learn-co-students/dc-web-060418/tree/master/01-hashketball-review)
+[02 Hashes and The Internet](https://youtu.be/d-flj4NOoT0) | [code](https://github.com/learn-co-students/dc-web-060418/tree/master/02-apis-and-the-internet)
 
 ## Blog Presentation Schedule
 
