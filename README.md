@@ -10,7 +10,7 @@
 * [02 Hashes and The Internet](https://youtu.be/d-flj4NOoT0) | [code](https://github.com/learn-co-students/dc-web-060418/tree/master/02-apis-and-the-internet)
 * [03 Intro To Object-Oriented Programming](https://youtu.be/EyI4UiTFfSU) | [code](https://github.com/learn-co-students/dc-web-060418/tree/master/03-object-oriented-programming)
 * [04 One to Many Relationships](https://youtu.be/b6DNzlK9zrI) | [code](https://github.com/learn-co-students/dc-web-060418/tree/master/04-one-to-many)
-* [05 Many to Many Relationships])https://youtu.be/EhuRPZRdCrY_ | [code](https://github.com/learn-co-students/dc-web-060418/tree/master/05-many-to-many)
+* [05 Many to Many Relationships]https://youtu.be/EhuRPZRdCrY_ | [code](https://github.com/learn-co-students/dc-web-060418/tree/master/05-many-to-many)
 
 ## Blog Presentation Schedule
 
