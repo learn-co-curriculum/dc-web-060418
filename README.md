@@ -11,6 +11,7 @@
 * [03 Intro To Object-Oriented Programming](https://youtu.be/EyI4UiTFfSU) | [code](https://github.com/learn-co-students/dc-web-060418/tree/master/03-object-oriented-programming)
 * [04 One to Many Relationships](https://youtu.be/b6DNzlK9zrI) | [code](https://github.com/learn-co-students/dc-web-060418/tree/master/04-one-to-many)
 * [05 Many to Many Relationships](https://youtu.be/EhuRPZRdCrY) | [code](https://github.com/learn-co-students/dc-web-060418/tree/master/05-many-to-many)
+* [06 Intro to SQL](https://youtu.be/wWeS10y_bAQ) | [code](https://github.com/learn-co-students/dc-web-060418/tree/master/06-intro-to-sql)
 
 ## Blog Presentation Schedule
 
