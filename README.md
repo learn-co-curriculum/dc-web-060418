@@ -12,6 +12,7 @@
 * [04 One to Many Relationships](https://youtu.be/b6DNzlK9zrI) | [code](https://github.com/learn-co-students/dc-web-060418/tree/master/04-one-to-many)
 * [05 Many to Many Relationships](https://youtu.be/EhuRPZRdCrY) | [code](https://github.com/learn-co-students/dc-web-060418/tree/master/05-many-to-many)
 * [06 Intro to SQL](https://youtu.be/wWeS10y_bAQ) | [code](https://github.com/learn-co-students/dc-web-060418/tree/master/06-intro-to-sql)
+* [07 Intro to ORMs](https://youtu.be/hxu56pixNvI) | [code](https://github.com/learn-co-students/dc-web-060418/tree/master/07-intro-to-orms)
 
 ## Blog Presentation Schedule
 
