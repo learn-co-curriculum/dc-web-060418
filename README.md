@@ -14,6 +14,7 @@
 * [06 Intro to SQL](https://youtu.be/wWeS10y_bAQ) | [code](https://github.com/learn-co-students/dc-web-060418/tree/master/06-intro-to-sql)
 * [07 Intro to ORMs](https://youtu.be/hxu56pixNvI) | [code](https://github.com/learn-co-students/dc-web-060418/tree/master/07-intro-to-orms)
 * [08 Challenge Review]() | [code](https://github.com/learn-co-students/mod1-code-review-boating-school-dc-web-060418/tree/master)
+* [09 Intro to Active Record](https://youtu.be/UtmY8tHHeUE) | [code](https://github.com/learn-co-students/dc-web-060418/tree/master/09-intro-to-active-record)
 
 ## Blog Presentation Schedule
 
