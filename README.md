@@ -18,17 +18,17 @@
 
 ## Blog Presentation Schedule
 
-June 21- Susanna, Anthony, Essa, Will \
-June 28- Taylor, Oren, Jared \
-July 5- Susanna, Anthony, Essa, Will \
-July 12- Taylor, Oren, Jared \
-July 26- Susanna, Anthony, Essa, Will \
-August 2- Taylor, Oren, Jared \
-August 9- Susanna, Anthony, Essa, Will \
-August 16- Taylor, Oren, Jared \
-August 23- Susanna, Anthony, Essa, Will \
-August 30- Taylor, Oren, Jared \
-September 6- Susanna, Anthony, Essa, Will \
+June 21- Susanna, Anthony, Essa, Will  
+June 28- Taylor, Oren, Jared  
+July 5- Susanna, Anthony, Essa, Will  
+July 12- Taylor, Oren, Jared  
+July 26- Susanna, Anthony, Essa, Will  
+August 2- Taylor, Oren, Jared  
+August 9- Susanna, Anthony, Essa, Will  
+August 16- Taylor, Oren, Jared  
+August 23- Susanna, Anthony, Essa, Will  
+August 30- Taylor, Oren, Jared  
+September 6- Susanna, Anthony, Essa, Will  
 September 13- Taylor, Oren, Jared 
 
 ## Additional Resources
