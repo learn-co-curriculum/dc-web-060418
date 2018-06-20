@@ -16,7 +16,7 @@
 * [08 Challenge Review]() | [code](https://github.com/learn-co-students/mod1-code-review-boating-school-dc-web-060418/tree/master)
 * [09 Intro to Active Record](https://youtu.be/UtmY8tHHeUE) | [code](https://github.com/learn-co-students/dc-web-060418/tree/master/09-intro-to-active-record)
 * [10 Active Record Relationships](https://youtu.be/579qarYG6xo) | [code](https://github.com/learn-co-students/dc-web-060418/tree/master/10-active-record-associations)
-
+* [11 Intro to Testing](https://youtu.be/hwyYp5bttNU) | [code](https://github.com/learn-co-students/dc-web-060418/tree/master/11-intro-to-testing)
 
 ## Blog Presentation Schedule
 
