@@ -19,6 +19,7 @@
 * [11 Intro to Testing](https://youtu.be/hwyYp5bttNU) | [code](https://github.com/learn-co-students/dc-web-060418/tree/master/11-intro-to-testing)
 * [12 Intro to the Internet](https://youtu.be/FgHdFFu9G48) | [code](https://github.com/learn-co-students/dc-web-060418/tree/master/12-intro-to-the-internet)
 * [13 Intro to Sinatra / MVC](https://youtu.be/IoxfscqLak4) | [code](https://github.com/learn-co-students/dc-web-060418/tree/master/13-intro-to-sinatra)
+* [14 Sinatra Forms](https://youtu.be/FMcZTndKM5g) | [code](https://github.com/learn-co-students/dc-web-060418/tree/master/14-sinatra-forms)
 
 ## Blog Presentation Schedule
 
