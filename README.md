@@ -20,6 +20,7 @@
 * [12 Intro to the Internet](https://youtu.be/FgHdFFu9G48) | [code](https://github.com/learn-co-students/dc-web-060418/tree/master/12-intro-to-the-internet)
 * [13 Intro to Sinatra / MVC](https://youtu.be/IoxfscqLak4) | [code](https://github.com/learn-co-students/dc-web-060418/tree/master/13-intro-to-sinatra)
 * [14 Sinatra Forms](https://youtu.be/FMcZTndKM5g) | [code](https://github.com/learn-co-students/dc-web-060418/tree/master/14-sinatra-forms)
+* [15 Nested Forms](https://youtu.be/gzlawNql7qQ) | [code](https://github.com/learn-co-students/dc-web-060418/tree/master/15-nested-forms)
 
 ## Blog Presentation Schedule
 
