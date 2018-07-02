@@ -22,6 +22,7 @@
 * [14 Sinatra Forms](https://youtu.be/FMcZTndKM5g) | [code](https://github.com/learn-co-students/dc-web-060418/tree/master/14-sinatra-forms)
 * [15 Nested Forms](https://youtu.be/gzlawNql7qQ) | [code](https://github.com/learn-co-students/dc-web-060418/tree/master/15-nested-forms)
 * [16 Intro to Rails](https://youtu.be/O5tgJkJO4MQ) | [code](https://github.com/learn-co-students/dc-web-060418/tree/master/16-intro-to-rails)
+* [17 Rails CRUD App](https://youtu.be/1u0x5Tn__Mc) | [code](https://github.com/learn-co-students/dc-web-060418/tree/master/17-rails-crud)
 
 ## Blog Presentation Schedule
 
