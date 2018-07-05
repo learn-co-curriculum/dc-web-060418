@@ -25,6 +25,7 @@
 * [17 Rails CRUD App](https://youtu.be/1u0x5Tn__Mc) | [code](https://github.com/learn-co-students/dc-web-060418/tree/master/17-rails-crud)
 * [18 Rails Associations](https://youtu.be/IHpys8lw9bY) | [code](https://github.com/learn-co-students/dc-web-060418/tree/master/18-rails-associations)
 * [19 Rails Validations](https://youtu.be/Ud0xAgXRWV0) | [code](https://github.com/learn-co-students/dc-web-060418/tree/master/19-rails-validations)
+* [20 Challenge Review]() | [code](https://github.com/learn-co-students/dc-web-060418/tree/master/mod2-code-review-pao)
 
 ## Blog Presentation Schedule
 
