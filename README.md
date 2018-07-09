@@ -27,6 +27,7 @@
 * [19 Rails Validations](https://youtu.be/Ud0xAgXRWV0) | [code](https://github.com/learn-co-students/dc-web-060418/tree/master/19-rails-validations)
 * [Challenge Review]() | [code](https://github.com/learn-co-students/dc-web-060418/tree/master/mod2-code-review-pao)
 * [20 Cookies and Sessions](https://youtu.be/e7y3_cGJbJE) | [code](https://github.com/learn-co-students/dc-web-060418/tree/master/20-sessions-and-cookies)
+* [21 Authentication](https://youtu.be/N2Kax-FNt0Y) | [code](https://github.com/learn-co-students/dc-web-060418/tree/master/21-auth)
 
 ## Blog Presentation Schedule
 
