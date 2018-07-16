@@ -32,6 +32,7 @@
 
 #### Module 3
 * [23 Intro to JS](https://youtu.be/_5RESqbLTkk) | [code](https://github.com/learn-co-students/dc-web-060418/tree/master/22-intro-to-js)
+* [24 Functions, Scope, Loops](https://youtu.be/IWaQ_teU83M) | [code](https://github.com/learn-co-students/dc-web-060418/tree/master/24-function-scope-loops)
 
 ## Blog Presentation Schedule
 
