@@ -1,5 +1,5 @@
 # dc-web-060418
- 
+
 <iframe src="https://calendar.google.com/calendar/embed?src=flatironschool.com_10dkckhpnpcenkhvlo07c64amc%40group.calendar.google.com&ctz=America%2FNew_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 ## Lecture Code and Videos
@@ -30,19 +30,22 @@
 * [21 Authentication](https://youtu.be/N2Kax-FNt0Y) | [code](https://github.com/learn-co-students/dc-web-060418/tree/master/21-auth)
 * [22 CSS lecture](https://youtu.be/KYsgElyRHyw) | [code](https://github.com/learn-co-students/dc-web-060418/tree/master/mod2-css-lecture)
 
+#### Module 3
+* [23 Intro to JS](https://youtu.be/_5RESqbLTkk) | [code](https://github.com/learn-co-students/dc-web-060418/tree/master/22-intro-to-js)
+
 ## Blog Presentation Schedule
 
 June 21- Susanna, Anthony, Will <br>
 June 28- August, Oren, Jared, Essa <br>
 July 5- Susanna, Anthony, Will <br>
 July 12- August, Oren, Jared, Essa <br>
-July 26- Susanna, Anthony, Will <br> 
-August 2- August, Oren, Jared, Essa <br> 
+July 26- Susanna, Anthony, Will <br>
+August 2- August, Oren, Jared, Essa <br>
 August 9- Susanna, Anthony, Will <br>
 August 16- August, Oren, Jared, Essa <br>
-August 23- Susanna, Anthony, Will <br> 
-August 30- August, Oren, Jared, Essa <br> 
-September 6- Susanna, Anthony, Will <br> 
+August 23- Susanna, Anthony, Will <br>
+August 30- August, Oren, Jared, Essa <br>
+September 6- Susanna, Anthony, Will <br>
 September 13- August, Oren, Jared, Essa <br>
 
 ## Additional Resources
