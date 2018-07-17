@@ -31,8 +31,9 @@
 * [22 CSS lecture](https://youtu.be/KYsgElyRHyw) | [code](https://github.com/learn-co-students/dc-web-060418/tree/master/mod2-css-lecture)
 
 #### Module 3
-* [23 Intro to JS](https://youtu.be/_5RESqbLTkk) | [code](https://github.com/learn-co-students/dc-web-060418/tree/master/22-intro-to-js)
+* [23 Intro to JS](https://youtu.be/_5RESqbLTkk) | [code](https://github.com/learn-co-students/dc-web-060418/tree/master/23-intro-to-js)
 * [24 Functions, Scope, Loops](https://youtu.be/IWaQ_teU83M) | [code](https://github.com/learn-co-students/dc-web-060418/tree/master/24-function-scope-loops)
+* [25 Functional Programming](https://youtu.be/rtyLigEZthU) | [code](https://github.com/learn-co-students/dc-web-060418/tree/master/25-functional-programming)
 
 ## Blog Presentation Schedule
 
