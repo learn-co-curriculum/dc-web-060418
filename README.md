@@ -34,6 +34,7 @@
 * [23 Intro to JS](https://youtu.be/_5RESqbLTkk) | [code](https://github.com/learn-co-students/dc-web-060418/tree/master/23-intro-to-js)
 * [24 Functions, Scope, Loops](https://youtu.be/IWaQ_teU83M) | [code](https://github.com/learn-co-students/dc-web-060418/tree/master/24-function-scope-loops)
 * [25 Functional Programming](https://youtu.be/rtyLigEZthU) | [code](https://github.com/learn-co-students/dc-web-060418/tree/master/25-functional-programming)
+* 26 Intro to the DOM [Part1](https://youtu.be/71EcsCBjGew) [Part2](https://youtu.be/1YlTKtVFjgU) | [code](https://github.com/learn-co-students/dc-web-060418/tree/master/26-intro-to-dom)
 
 ## Blog Presentation Schedule
 
