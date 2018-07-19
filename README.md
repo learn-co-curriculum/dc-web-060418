@@ -36,6 +36,7 @@
 * [25 Functional Programming](https://youtu.be/rtyLigEZthU) | [code](https://github.com/learn-co-students/dc-web-060418/tree/master/25-functional-programming)
 * 26 Intro to the DOM [Part1](https://youtu.be/71EcsCBjGew) [Part2](https://youtu.be/1YlTKtVFjgU) | [code](https://github.com/learn-co-students/dc-web-060418/tree/master/26-intro-to-dom)
 * [27 Event Listeners](https://youtu.be/rA8Namxteyo) | [code](https://github.com/learn-co-students/dc-web-060418/tree/master/27-event-listeners)
+* [mod3-Pokemon-review](https://youtu.be/Wk0PCgaPk2c) | (code)(https://github.com/learn-co-students/dc-web-060418/tree/master/mod3-pokemon-lab-review)
 
 ## Blog Presentation Schedule
 
