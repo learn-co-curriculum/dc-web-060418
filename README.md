@@ -38,6 +38,7 @@
 * [27 Event Listeners](https://youtu.be/rA8Namxteyo) | [code](https://github.com/learn-co-students/dc-web-060418/tree/master/27-event-listeners)
 * [mod3-Pokemon-review](https://youtu.be/Wk0PCgaPk2c) | [code](https://github.com/learn-co-students/dc-web-060418/tree/master/mod3-pokemon-lab-review)
 * [28 Promises and Fetch](https://youtu.be/aVNzq8u0F0E) | [code](https://github.com/learn-co-students/dc-web-060418/tree/master/28-promises-fetch)
+* [29 More Fetch](https://youtu.be/CKcSkanVYZQ) | [code](https://github.com/learn-co-students/dc-web-060418/tree/master/29-more-fetch)
 
 ## Blog Presentation Schedule
 
