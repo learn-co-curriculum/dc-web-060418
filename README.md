@@ -40,7 +40,7 @@
 * [28 Promises and Fetch](https://youtu.be/aVNzq8u0F0E) | [code](https://github.com/learn-co-students/dc-web-060418/tree/master/28-promises-fetch)
 * [29 More Fetch](https://youtu.be/CKcSkanVYZQ) | [code](https://github.com/learn-co-students/dc-web-060418/tree/master/29-more-fetch)
 * [30 This Call Bind Apply](https://youtu.be/sR9P91j8Jw8) | [code](https://github.com/learn-co-students/dc-web-060418/tree/master/30-this-bind-call-apply)
-* [31 Classes and Prototype](https://youtu.be/0iGS2614iJs) | [code](https://github.com/learn-co-students/dc-web-060418/tree/master/31-classes-prototype)
+* [31 Classes and Prototype](https://youtu.be/Ud4sQ83svDI) | [code](https://github.com/learn-co-students/dc-web-060418/tree/master/31-classes-prototype)
 
 ## Blog Presentation Schedule
 
