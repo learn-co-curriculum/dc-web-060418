@@ -34,13 +34,14 @@
 * [23 Intro to JS](https://youtu.be/_5RESqbLTkk) | [code](https://github.com/learn-co-students/dc-web-060418/tree/master/23-intro-to-js)
 * [24 Functions, Scope, Loops](https://youtu.be/IWaQ_teU83M) | [code](https://github.com/learn-co-students/dc-web-060418/tree/master/24-function-scope-loops)
 * [25 Functional Programming](https://youtu.be/rtyLigEZthU) | [code](https://github.com/learn-co-students/dc-web-060418/tree/master/25-functional-programming)
-* 26 Intro to the DOM [Part1](https://youtu.be/71EcsCBjGew) [Part2](https://youtu.be/1YlTKtVFjgU) | [code](https://github.com/learn-co-students/dc-web-060418/tree/master/26-intro-to-dom)
+* 26 Intro to the DOM [Part 1](https://youtu.be/71EcsCBjGew) [Part 2](https://youtu.be/1YlTKtVFjgU) | [code](https://github.com/learn-co-students/dc-web-060418/tree/master/26-intro-to-dom)
 * [27 Event Listeners](https://youtu.be/rA8Namxteyo) | [code](https://github.com/learn-co-students/dc-web-060418/tree/master/27-event-listeners)
 * [mod3-Pokemon-review](https://youtu.be/Wk0PCgaPk2c) | [code](https://github.com/learn-co-students/dc-web-060418/tree/master/mod3-pokemon-lab-review)
 * [28 Promises and Fetch](https://youtu.be/aVNzq8u0F0E) | [code](https://github.com/learn-co-students/dc-web-060418/tree/master/28-promises-fetch)
 * [29 More Fetch](https://youtu.be/CKcSkanVYZQ) | [code](https://github.com/learn-co-students/dc-web-060418/tree/master/29-more-fetch)
 * [30 This Call Bind Apply](https://youtu.be/sR9P91j8Jw8) | [code](https://github.com/learn-co-students/dc-web-060418/tree/master/30-this-bind-call-apply)
 * [31 Classes and Prototype](https://youtu.be/Ud4sQ83svDI) | [code](https://github.com/learn-co-students/dc-web-060418/tree/master/31-classes-prototype)
+* 32 Rails API [Part 1](https://www.youtube.com/watch?v=OFpHaQ2XILA&index=31&t=0s&list=PLc6AmvC5Zybwcec52Qipv95cpQiWZ74Sg) [Part 1.5](https://www.youtube.com/watch?v=GQ37aq7CueQ&t=0s&list=PLc6AmvC5Zybwcec52Qipv95cpQiWZ74Sg&index=32) [Part 2 coming soon] | [code](https://github.com/learn-co-students/dc-web-060418/tree/master/32-Rails-API)
 
 ## Blog Presentation Schedule
 
