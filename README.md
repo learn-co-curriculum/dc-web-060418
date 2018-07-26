@@ -42,7 +42,7 @@
 * [30 This Call Bind Apply](https://youtu.be/sR9P91j8Jw8) | [code](https://github.com/learn-co-students/dc-web-060418/tree/master/30-this-bind-call-apply)
 * [31 Classes and Prototype](https://youtu.be/Ud4sQ83svDI) | [code](https://github.com/learn-co-students/dc-web-060418/tree/master/31-classes-prototype)
 * [Hog Farm Review](https://youtu.be/FqHdBLsJYcI) | [code](https://github.com/learn-co-students/dc-web-060418/tree/master/mod3-hog-farm-review)
-* 32 Rails API [Part 1](https://www.youtube.com/watch?v=OFpHaQ2XILA&index=31&t=0s&list=PLc6AmvC5Zybwcec52Qipv95cpQiWZ74Sg) [Part 1.5](https://www.youtube.com/watch?v=GQ37aq7CueQ&t=0s&list=PLc6AmvC5Zybwcec52Qipv95cpQiWZ74Sg&index=32) [Part 2 coming soon] | [code](https://github.com/learn-co-students/dc-web-060418/tree/master/32-Rails-API)
+* 32 Rails API [Part 1](https://www.youtube.com/watch?v=OFpHaQ2XILA&index=31&t=0s&list=PLc6AmvC5Zybwcec52Qipv95cpQiWZ74Sg) [Part 1.5](https://www.youtube.com/watch?v=GQ37aq7CueQ&t=0s&list=PLc6AmvC5Zybwcec52Qipv95cpQiWZ74Sg&index=32) [Part 2]()https://youtu.be/XsO2izRjl60 | [code](https://github.com/learn-co-students/dc-web-060418/tree/master/32-Rails-API)
 
 ## Blog Presentation Schedule
 
