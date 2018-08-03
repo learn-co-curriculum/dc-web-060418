@@ -54,11 +54,11 @@ July 5- Susanna, Anthony, Will <br>
 July 12- August, Oren, Jared, Essa, Brittany <br>
 July 26- Susanna, Anthony, Will <br>
 August 2- August, Oren, Jared, Essa, Brittany <br>
-August 9- Susanna, Anthony, Will <br>
-August 16- August, Oren, Jared, Essa, Brittany <br>
-August 23- Susanna, Anthony, Will <br>
-August 30- August, Oren, Jared, Essa, Brittany <br>
-September 6- Susanna, Anthony, Will <br>
-September 13- August, Oren, Jared, Essa, Brittany <br>
+August 9- Susanna, Anthony, Will, Brittany <br>
+August 16- August, Oren, Jared, Essa <br>
+August 23- Susanna, Anthony, Will, Brittany <br>
+August 30- August, Oren, Jared, Essa <br>
+September 6- Susanna, Anthony, Will, Brittany <br>
+September 13- August, Oren, Jared, Essa <br>
 
 ## Additional Resources
