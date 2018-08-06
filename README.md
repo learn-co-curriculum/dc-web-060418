@@ -46,6 +46,9 @@
 * [mod3-Hogs-review](https://www.youtube.com/watch?v=FqHdBLsJYcI&t) | [code](https://github.com/learn-co-students/dc-web-060418/tree/master/mod3-hog-farm-review)
 * [33 TIPs for Mod 3](https://www.youtube.com/watch?v=ewWBFxwLXnU) | [code](https://github.com/learn-co-students/dc-web-060418/tree/master/33-mod3-tips)
 
+#### Module 4
+* [34 Intro To React](https://youtu.be/qqYDcNBcBKs) | [code](https://github.com/learn-co-students/dc-web-060418/tree/master/34-intro-to-react)
+
 ## Blog Presentation Schedule
 
 June 21- Susanna, Anthony, Will <br>
