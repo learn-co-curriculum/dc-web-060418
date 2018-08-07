@@ -48,7 +48,8 @@
 
 #### Module 4
 * [34 Intro To React](https://youtu.be/qqYDcNBcBKs) | [code](https://github.com/learn-co-students/dc-web-060418/tree/master/34-intro-to-react)
-* [35 React Props](https://youtu.be/S6v2y044giM) | [code](https://github.com/learn-co-students/dc-web-060418/tree/master/35-react-props)
+* [35 React Props](https://youtu.be/S6v2y044giM) | [code](https://github.com/learn-co-students/dc-web-060418/tree/master/35-react-props.)
+* [36 State and Forms](https://youtu.be/Tr1Kgtz0DIQ) | [code](https://github.com/learn-co-students/dc-web-060418/tree/master/36-react-state-and-forms)
 
 ## Blog Presentation Schedule
 
