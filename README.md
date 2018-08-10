@@ -52,7 +52,7 @@
 * [36 State and Forms](https://youtu.be/Tr1Kgtz0DIQ) | [code](https://github.com/learn-co-students/dc-web-060418/tree/master/36-react-state-and-forms)
 * [37 Component Lifecycle](https://www.youtube.com/watch?v=SnxMRhCQUr8&t=0s&list=PLc6AmvC5Zybwcec52Qipv95cpQiWZ74Sg&index=39) | [code](https://github.com/learn-co-students/dc-web-060418/tree/master/37-component-lifecycle)
 * [38 Thinking in React](https://youtu.be/w-JB0D5ylBY) | [code](https://github.com/learn-co-students/dc-web-060418/tree/master/38-thinking-in-react)
-* [mod4-Hogwarts-review]|[code](https://github.com/learn-co-students/dc-web-060418/tree/master/mod4-hogwarts-review)
+* mod4-Hogwarts-review|[code](https://github.com/learn-co-students/dc-web-060418/tree/master/mod4-hogwarts-review)
 
 ## Blog Presentation Schedule
 
