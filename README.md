@@ -54,6 +54,7 @@
 * [38 Thinking in React](https://youtu.be/w-JB0D5ylBY) | [code](https://github.com/learn-co-students/dc-web-060418/tree/master/38-thinking-in-react)
 * [Hogwarts Review](https://www.youtube.com/watch?v=0XKr7PvhpqA) | [code](https://github.com/learn-co-students/dc-web-060418/tree/master/mod4-hogwarts-review)
 * [Boozer Review](https://youtu.be/iP_VfdB0wrI) | [code](https://github.com/learn-co-students/dc-web-060418/tree/master/mod4-boozer-react-review)
+* [39 React Router](https://youtu.be/MSP7qTfh1qI) | [code](https://github.com/learn-co-students/dc-web-060418/tree/master/39-react-router)
 ## Blog Presentation Schedule
 
 June 21- Susanna, Anthony, Will <br>
