@@ -56,6 +56,8 @@
 * [Boozer Review](https://youtu.be/iP_VfdB0wrI) | [code](https://github.com/learn-co-students/dc-web-060418/tree/master/mod4-boozer-react-review)
 * [39 React Router](https://youtu.be/MSP7qTfh1qI) | [code](https://github.com/learn-co-students/dc-web-060418/tree/master/39-react-router)
 * [40 Token Auth](https://youtu.be/gXLhuqOB1yo) | [code](https://github.com/learn-co-students/dc-web-060418/tree/master/40-token-auth)
+* [41 Intro to redux](https://youtu.be/KMWlLnAiCQ8) | [slides](https://docs.google.com/presentation/d/1IIzo1y-nHkQEGtEhDiq7NevbTipq0jGj9XjOs4hLE9Q/edit#slide=id.p) [redux terminology cheat sheet](https://gist.github.com/alexgriff/0e247dee73e9125177d9c04cec159cc6#provider)
+
 ## Blog Presentation Schedule
 
 June 21- Susanna, Anthony, Will <br>
