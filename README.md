@@ -59,6 +59,8 @@
 * [41 Intro to Redux](https://youtu.be/KMWlLnAiCQ8) | [slides](https://docs.google.com/presentation/d/1IIzo1y-nHkQEGtEhDiq7NevbTipq0jGj9XjOs4hLE9Q/edit#slide=id.p) [redux terminology cheat sheet](https://gist.github.com/alexgriff/0e247dee73e9125177d9c04cec159cc6#provider)
 * [42 Redux Actions and Reducers](https://youtu.be/F3IO4MBRXjY) | [code](https://github.com/learn-co-students/dc-web-060418/tree/master/42-intro-to-redux)
 * [43 React-Redux](https://youtu.be/DatjuCvdNMU) | [code](https://github.com/learn-co-students/dc-web-060418/tree/master/43-react-and-redux)
+* [44 Redux combineReducers](https://youtu.be/OwVdtKlg9m4) | [code](https://github.com/learn-co-students/dc-web-060418/tree/master/44-redux-combine-reducers)
+* [45 Redux ActionCreators]() | [code](https://github.com/learn-co-students/dc-web-060418/tree/master/45-advanced-redux-and-thunk)
 
 ## Blog Presentation Schedule
 
