@@ -60,7 +60,10 @@
 * [42 Redux Actions and Reducers](https://youtu.be/F3IO4MBRXjY) | [code](https://github.com/learn-co-students/dc-web-060418/tree/master/42-intro-to-redux)
 * [43 React-Redux](https://youtu.be/DatjuCvdNMU) | [code](https://github.com/learn-co-students/dc-web-060418/tree/master/43-react-and-redux)
 * [44 Redux combineReducers](https://youtu.be/OwVdtKlg9m4) | [code](https://github.com/learn-co-students/dc-web-060418/tree/master/44-redux-combine-reducers)
-* [45 Redux ActionCreators]() | [code](https://github.com/learn-co-students/dc-web-060418/tree/master/45-advanced-redux-and-thunk)
+* [45 Redux ActionCreators](https://youtu.be/7PgVzQ7-2xg) | [code](https://github.com/learn-co-students/dc-web-060418/tree/master/45-advanced-redux-and-thunk)
+* [46 Redux Review](https://youtu.be/VlQ6CClYYZA) | [code](https://github.com/learn-co-students/dc-web-060418/tree/master/46-redux-thunk)
+* [47 Redux Thunk + Mod 5 Intro](https://youtu.be/sY6YhNWQ1aI) | [code](https://github.com/learn-co-students/dc-web-060418/tree/master/47-intro-to-mod-5)
+
 
 ## Blog Presentation Schedule
 
