@@ -64,6 +64,7 @@
 * [46 Redux Review](https://youtu.be/VlQ6CClYYZA) | [code](https://github.com/learn-co-students/dc-web-060418/tree/master/46-redux-thunk)
 * [47 Redux Thunk + Mod 5 Intro](https://youtu.be/sY6YhNWQ1aI) | [code](https://github.com/learn-co-students/dc-web-060418/tree/master/47-intro-to-mod-5)
 * [48 QA in Deployed Applications](https://youtu.be/Ru-N3zCKeS0) | [code](https://github.com/learn-co-students/dc-web-060418/tree/master/48-deployment-and-qa)
+* [Jest and Enzyme Testing Lecture]()|[code](https://github.com/learn-co-students/dc-web-060418/tree/master/mod5-jest-enzyme-lecture)
 
 
 ## Blog Presentation Schedule
